@@ -34,3 +34,5 @@ Built interactive charts (bar charts, pie charts, donut charts).
 Added slicers for Outlet Type, Outlet Size, and Outlet Location.
 Applied conditional formatting and professional design.
 
+## DashBoard
+![Uploading Screenshot 2025-10-04 170431.png…]()
