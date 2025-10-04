@@ -36,3 +36,19 @@ Applied conditional formatting and professional design.
 
 ## DashBoard
 ![Uploading Screenshot 2025-10-04 170431.png…]()
+
+
+## Project Insights
+
+Total Sales: $1.20M across 8,523 items.
+Top Performing Categories: Fruits & Vegetables, Snack Foods, and Household products.
+Fat Content Impact: Regular fat items ($776K) outsell low-fat items ($425K).
+Outlet Type: Supermarket Type 3 contributes the highest sales ($787.5K).
+Outlet Size: Medium-sized outlets lead sales ($507.9K), followed by Small ($444.8K).
+Outlet Location: Tier 3 outlets generate more sales compared to Tier 1 and Tier 2.
+
+## Final Conclusion
+
+The analysis reveals that Regular fat items and Supermarket Type 3 outlets are the key revenue drivers for Blinkit. Medium-sized outlets and Tier 3 locations show strong sales performance, suggesting potential growth opportunities in these areas. By focusing on high-performing categories like Snacks and Fruits, Blinkit can optimize inventory, improve product availability, and boost overall sales.
+
+This project demonstrates how Excel dashboards can transform raw data into actionable insights for business decision-making.
