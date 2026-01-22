@@ -17,7 +17,7 @@ The objective of this project is to analyze Blinkit’s sales performance data a
 - What are the top-selling product categories?
 
 ## DashBoard:
--<a href="https://github.com/Indu-Kavida/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202025-10-04%20170431.png">View Dashboard</a>
+- href="https://github.com/Indu-Kavida/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202025-10-04%20170431.png"
 
 ## Process
 
