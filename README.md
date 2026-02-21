@@ -1,4 +1,4 @@
-# Blinkit Sales Analysis Dashboard
+<img width="1266" height="790" alt="Screenshot 2025-10-04 170431" src="https://github.com/user-attachments/assets/d9e2c87d-a382-4de9-971e-ca18324c0a3e" /><img width="1266" height="790" alt="Screenshot 2025-10-04 170431" src="https://github.com/user-attachments/assets/1c545120-9c2e-4df2-ba6a-9f1f595ce4f8" /># Blinkit Sales Analysis Dashboard
 
 ## Project Objective
 The objective of this project is to analyze Blinkit’s sales performance data and build an interactive Excel dashboard that provides key business insights into sales trends, product categories, outlet performance, and customer preferences. The goal is to support data-driven decision-making for improving sales strategies, product demand forecasting, and outlet management.
@@ -35,8 +35,7 @@ Added slicers for Outlet Type, Outlet Size, and Outlet Location.
 Applied conditional formatting and professional design.
 
 ## DashBoard
-![Uploading Screenshot 2025-10-04 170431.png…]()
-
+<img width="1266" height="790" alt="Screenshot 2025-10-04 170431" src="https://github.com/user-attachments/assets/adb6184a-e77a-4a45-971a-3e7fe5bccce1" />
 
 ## Project Insights
 
