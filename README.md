@@ -14,9 +14,6 @@ The objective of this project is to analyze Blinkit’s sales performance data a
 - Which location tier (Tier 1, 2, 3) performs the best in terms of sales?
 - What are the top-selling product categories?
 
-## DashBoard:
--"https://github.com/Indu-Kavida/Blinkit-Sales-Analysis-Dashboard-/blob/main/Screenshot%202025-10-04%20170431.png"
-
 ## Process
 
 Data Cleaning:
